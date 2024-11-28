@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import java.util.Arrays;
 import java.util.List;
 
-public class WordleGUI {
+public class WordleGUI extends JFrame{
     private JFrame frame;
     private JButton comprobarButton;
     private JPanel gridPanel;
